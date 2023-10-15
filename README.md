@@ -12,7 +12,7 @@
 Бонусные задания:
 1. Написать скрипт, который считает GMV (Gross Merchandise Value) и отдает таблицу в
 формате: (DONE)    
-store_id | category_id | sales_sum 
+|store_id | category_id | sales_sum |
 2. Превратить скрипт выше во view (DONE)
 3. Сделать так, чтобы вся система выше запускалась ОДНОЙ командой docker-compose
 up
